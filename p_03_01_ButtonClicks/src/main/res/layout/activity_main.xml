@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/tv_show_crown_count"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/numbers_of_crows"
@@ -15,17 +15,17 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.120000005" />
+        app:layout_constraintVertical_bias="0.19999999" />
 
     <Button
         android:id="@+id/bt_click_crows"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/say_hello"
+        android:text="@string/button_start_crows_count"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.13" />
+        app:layout_constraintTop_toBottomOf="@+id/tv_show_crown_count"
+        app:layout_constraintVertical_bias="0.23000002" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

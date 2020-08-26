@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">p_03_01_ButtonClicks</string>
+    <string name="button_start_crows_count">Start Crows count!</string>
+    <string name="numbers_of_crows">Numbers of crows</string>
+</resources>

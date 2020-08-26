@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.p_02_01_buttonclicks"
+        applicationId "com.example.p_03_01_buttonclicks"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
