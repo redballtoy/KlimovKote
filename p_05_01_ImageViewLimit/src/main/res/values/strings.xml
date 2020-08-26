@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kote Panic!</string>
+    <string name="str_01">Уже 6 часов утра, Наташ</string>
+    <string name="str_02">Вставай, мы там всё уронили</string>
+    <string name="str_03">Мы уронили вообще всё,\n Наташ, честно</string>
+    <string name="str_04">Наташ, ты чё опять лежишь?</string>
+    <string name="str_05">Часики-то тикают</string>
+    <string name="str_06">Мужика-то хоть нашла себе?</string>
+    <string name="str_08">Наташа, ты спишь?</string>
+    <string name="str_07">Уже дитачек пора \n рожать вообще-то</string>
+    <string name="answer">Сплю!</string>
+
+
+</resources>
