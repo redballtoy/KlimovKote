@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p_03_01_ButtonClicks" />
+            <option value="$PROJECT_DIR$/p_04_01_ColorChange_TrafficLights" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

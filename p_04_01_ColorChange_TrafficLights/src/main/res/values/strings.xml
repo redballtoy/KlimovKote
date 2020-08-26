@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p_04_01_ColorChange_TrafficLights</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="show_color_name">Show Color Name</string>
+</resources>
