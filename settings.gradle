@@ -1,2 +1,3 @@
+include ':p_02_01_ButtonClicks'
 include ':app'
 rootProject.name = "KlimovKote"
