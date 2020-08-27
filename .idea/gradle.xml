@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/p_03_01_ButtonClicks" />
             <option value="$PROJECT_DIR$/p_04_01_ColorChange_TrafficLights" />
             <option value="$PROJECT_DIR$/p_05_01_ImageViewLimit" />
+            <option value="$PROJECT_DIR$/p_06_01_ActivitySimpleIntent" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
